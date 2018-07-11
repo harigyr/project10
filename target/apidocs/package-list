@@ -1,0 +1,15 @@
+org.hari10.com.beans
+org.hari10.com.beans.base
+org.hari10.com.customrepository
+org.hari10.com.domain
+org.hari10.com.domain.base
+org.hari10.com.jsf.composite
+org.hari10.com.jsf.converter
+org.hari10.com.jsf.datatable
+org.hari10.com.jsf.exceptionhandler
+org.hari10.com.jsf.listener
+org.hari10.com.repositories
+org.hari10.com.services
+org.hari10.com.services.base
+org.hari10.com.utils
+org.hari10.com.ws.rest
